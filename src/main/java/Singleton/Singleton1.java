@@ -1,4 +1,4 @@
-package Singleton;
+package main.java.Singleton;
 
 /**
  * creat by BWJ

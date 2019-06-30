@@ -1,4 +1,4 @@
-package Singleton;
+package main.java.Singleton;
 
 /**
  * 单例模式--懒汉模式
